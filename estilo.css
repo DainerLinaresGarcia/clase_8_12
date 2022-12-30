@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    height: 200px;
+}
+header img{
+    align-content: center;
+    height: 160px;
+}
+#botonera{
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+}
+section{
+    height: 240px;
+    text-align: center;
+    background-color: blue;
+    text-decoration: none;
+    padding: 5px;
+}
+section div{
+    font-size: medium
+}
+#botonera ul li{
+    display: inline;
+     margin-left: 100px;
+}
+#botonera ul li a{
+    display: inline-block;
+    background-color: beige;
+    color: aqua;
+    margin-top: 15px;
+    text-decoration: none;
+    border: 1px solid salmon;
+    border-radius: 15px;
+    padding: 2px;
+}
+#botonera ul a:hover{
+     background-color: black;
+     color: white;
+     border-color: blueviolet;
+     border-radius: 35px;
+     padding: 5px;
+
+}
+footer{
+    height: 300px;
+}
